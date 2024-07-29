@@ -1,16 +1,14 @@
-# pokedex
+# Pokedex
 
-A new Flutter project.
+Beautiful App for your Pokemon Dictionary.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project use flutter to build.
 
-A few resources to get you started if this is your first Flutter project:
+- To use this source code, please first install flutter:
+  https://flutter.dev/
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- After installing flutter SDK, you need to clone this repository.
+- Run `flutter pub get` on project root. This will install all the dependencies needed to you get started.
+- To use `json_serialization` you can use `flutter_script` available. If you don't enable `flutter_script` yet, please enable it: https://pub.dev/packages/flutter_scripts
